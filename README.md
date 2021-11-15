@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoalvesoliveira&" alt="brunoalvesoliveira" /></p>
 
 <!--
-**brunoalvesoliveira/brunoalvesoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**brunoalvoliv/brunoalvoliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
